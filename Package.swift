@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "LSPServiceKit",
-    platforms: [.iOS(.v11), .tvOS(.v11), .macOS(.v12)],
+    platforms: [.iOS(.v11), .tvOS(.v11), .macOS(.v13)],
     products: [
         .library(
             name: "LSPServiceKit",
